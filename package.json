@@ -1,0 +1,15 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Mario Arriola",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
